@@ -1,0 +1,4 @@
+name: CityEconomy
+version: '${project.version}'
+main: me.stephenminer.cityeconomy.CityEconomy
+api-version: '1.21'
